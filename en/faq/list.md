@@ -1,5 +1,6 @@
  - [**What does it mean when we say two chat rooms are connected?**](/getting-started/en/faq/list#connected-rooms)
  - [**What is Sameroom used for?**](/getting-started/en/faq/list#sameroom-purpose)
+ - [**What is a supported platform?**](/getting-started/en/faq/list#supported-platform)
  - [**What is a Portal?**](/getting-started/en/faq/list#portal-definition)
  - [**What is a Tube?**](/getting-started/en/faq/list#tube-definition)
  - [**What is a bot account?**](/getting-started/en/faq/list#bot-account)
@@ -37,6 +38,24 @@ First, you create in Sameroom a Portal for the room **A** [[see how]](/getting-s
 Then, you send that Portal (which is just a URL) to your counterpart.
 
 Finally, your counterpart creates in Sameroom a Tube between your Portal for the room **A** and the room **B** [[see how]](/getting-started/en/faq/list#how-to-create-a-tube). After that, **A** and **B** are connected when the Tube is active.
+
+---
+### <a href="#supported-platform" name="supported-platform">**What is a supported platform?**</a>
+
+At this moment, Sameroom can connect rooms from the following so-called _supported platforms_:
+
+ - [Campfire](https://launchpad.37signals.com/campfire/signin)
+ - [Fleep](https://fleep.io)
+ - [Flowdock](https://www.flowdock.com/login)
+ - [Email](https://en.wikipedia.org/wiki/Email)
+ - [Gitter](https://gitter.im)
+ - [HipChat](https://www.hipchat.com/sign_in)
+ - [IRC](http://webchat.freenode.net)
+ - [Kato](https://kato.im)
+ - [Skype](https://web.skype.com/en)
+ - [Slack](https://slack.com)
+
+That list of supported platforms is going to grow over time.
 
 ---
 ### <a href="#portal-definition" name="portal-definition">**What is a Portal?**</a>
