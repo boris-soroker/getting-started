@@ -3,7 +3,7 @@
  
 ---
 
- ### <a href="#what-is-sameroom-for" name="what-is-sameroom-for">What is Sameroom for?</a>
+### <a href="#what-is-sameroom-for" name="what-is-sameroom-for">What is Sameroom for?</a>
  
 If you want to connect rooms from different chat platforms (for example, Slack and HipChat), Sameroom can help.
 
