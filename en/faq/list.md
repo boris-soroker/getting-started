@@ -1,9 +1,9 @@
- - [**What is Sameroom for?**](/getting-started/en/faq/list#what-is-sameroom-for)
- - [No, really, what is Sameroom for?](/getting-started/en/faq/list#what-is-sameroom-for)
+ - [**What is Sameroom used for?**](/getting-started/en/faq/list#what-is-sameroom-used-for)
+ - [No, really, what is Sameroom for?](/getting-started/en/faq/list#what-is-sameroom-used-for)
  
 ---
 
-### <a href="#what-is-sameroom-for" name="what-is-sameroom-for">**What is Sameroom for?**</a>
+### <a href="#what-is-sameroom-used-for" name="what-is-sameroom-used-for">**What is Sameroom for?**</a>
  
 If you want to connect rooms from different chat platforms (for example, Slack and HipChat), Sameroom can help.
 
