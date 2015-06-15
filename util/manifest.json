@@ -185,7 +185,7 @@
                     "entities": [
                         {
                             "type": "page",
-                            "src": "README",
+                            "src": "list",
                             "title": "Full list"
                         }
                     ]
