@@ -187,6 +187,11 @@
                             "type": "page",
                             "src": "list",
                             "title": "Full list"
+                        },
+                        {
+                            "type": "page",
+                            "src": "dict",
+                            "title": "Dictionary"
                         }
                     ]
                 }
