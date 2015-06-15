@@ -7,7 +7,7 @@
  
 If you want to connect rooms from different chat platforms (for example, **Slack** and **HipChat**), [Sameroom](https://sameroom.io) can help. 
 
-We will use symbolic names **A** and **B** for rooms we would like to connect.
+We will use symbolic names **A** and **B** for rooms YOU would like to connect.
 
 There are two basic scenarios:
 
