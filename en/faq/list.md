@@ -1,14 +1,14 @@
- - [**What does it mean when we say rooms A and B are connected?**](/getting-started/en/faq/list#connected-rooms)
+ - [**What does it mean when we say two chat rooms are connected?**](/getting-started/en/faq/list#connected-rooms)
  - [**What is Sameroom used for?**](/getting-started/en/faq/list#sameroom-purpose)
  
 ---
-### <a href="#connected-rooms" name="connected-rooms">**What does it mean when we say rooms A and B are connected?**</a>
+### <a href="#connected-rooms" name="connected-rooms">**What does it mean when we say two chat rooms are connected?**</a>
  
 Lat's say we have a couple of rooms, **A** and **B**, from some chat platforms. For example, room **A** can be from a _Slack_ team (in that case, _Slack_ calls it the _channel_ **A**), and room **B** can be from a _HipChat_ team.
 
-Often, it is very useful to be able to see in **A** all messages posted in **B**, and vice virsa, to see in **B** all messages posted in **A**.
+Often, it is very useful to be able to see in room **A** all messages posted in room **B**, and vice virsa, to see in room **B** all messages posted in room **A**.
 
-Our product, [Sameroom](https://sameroom.io), does exactly that, and we will say that **A** and **B** are _connected_ by Sameroom. 
+Our product, [Sameroom](https://sameroom.io), does exactly that, relaying messages between rooms, and we will say that **A** and **B** are _connected_ by Sameroom. 
 
 ---
 ### <a href="#sameroom-purpose" name="sameroom-purpose">**What is Sameroom used for?**</a>
