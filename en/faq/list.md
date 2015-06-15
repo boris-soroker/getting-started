@@ -19,13 +19,13 @@ We will use names **A** and **B** for rooms you would like to connect.
 
 There are two basic scenarios:
 
-### ![step-1.png](https://in.kato.im/b8be284b81c9467fed3170d274c28de6789dd2fae1957895cd34bc20a2676d25/step-1.png) &ensp; **You create a Tube**
+#### ![step-1.png](https://in.kato.im/b8be284b81c9467fed3170d274c28de6789dd2fae1957895cd34bc20a2676d25/step-1.png) &ensp; **You create a Tube**
  
 In that scenario, you have access to both rooms you would like to connect, **A** and **B**. In our example, it means you have access to a conversation from a **Fleep** team and a room from a **Campfire** team.  
 
 So, to connect rooms **A** and **B**, you just create in Sameroom a Tube between **A** and **B** [[see how]](/getting-started/en/faq/list#how-to-create-a-tube). After that, **A** and **B** are connected when the Tube is active.
 
-### ![step-2.png](https://in.kato.im/99977b264e016814f4af35ac12a7fe42f1138758cd4b9285fa8c34e628a264fd/step-2.png) &ensp; **You create a Portal used by your counterpart to create a Tube**
+#### ![step-2.png](https://in.kato.im/99977b264e016814f4af35ac12a7fe42f1138758cd4b9285fa8c34e628a264fd/step-2.png) &ensp; **You create a Portal used by your counterpart to create a Tube**
  
 In that scenario, you have access only to one of the rooms you would like to connect (say, room **A**), and you know somebody who has access to the second room (room **B**), i.e. your _counterpart_.
 
