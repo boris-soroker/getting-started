@@ -1,4 +1,4 @@
- - [What is Sameroom for?](/getting-started/en/faq/list#what-is-sameroom-for)
+ - [**What is Sameroom for?**](/getting-started/en/faq/list#what-is-sameroom-for)
  - [No, really, what is Sameroom for?](/getting-started/en/faq/list#what-is-sameroom-for)
  
 ---
