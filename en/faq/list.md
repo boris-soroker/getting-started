@@ -1,5 +1,7 @@
  - [**What does it mean when we say two chat rooms are connected?**](/getting-started/en/faq/list#connected-rooms)
  - [**What is Sameroom used for?**](/getting-started/en/faq/list#sameroom-purpose)
+ - [**What is a Tube?**](/getting-started/en/faq/list#tube-definition)
+ - [**What is a Portal?**](/getting-started/en/faq/list#portal-definition)
  
 ---
 ### <a href="#connected-rooms" name="connected-rooms">**What does it mean when we say two chat rooms are connected?**</a>
@@ -34,3 +36,16 @@ First, you create in Sameroom a Portal for the room **A** [[see how]](/getting-s
 Then, you send that Portal (which is just a URL) to your counterpart.
 
 Finally, your counterpart creates in Sameroom a Tube between your Portal for the room **A** and the room **B** [[see how]](/getting-started/en/faq/list#how-to-create-a-tube). After that, **A** and **B** are connected when the Tube is active.
+
+---
+### <a href="#tube-definition" name="tube-definition">**What is a Tube?**</a>
+
+A Sameroom user creates a Tube to [connect](/getting-started/en/faq/list#connected-rooms) two chat rooms. 
+
+If that user has access to both chat rooms, the Tube can be created directly [[how-to]]([[see how]](/getting-started/en/faq/list#tube-creation)).
+
+If that user has access to only one of the chat rooms, the Tube can be created by using a Portal [[how-to]](/getting-started/en/faq/list#tube-creation-from_portal).
+
+We recommend to use [bot accounts](/getting-started/en/faq/list#bot-accounts) to create Tubes.
+
+We recommend to 
