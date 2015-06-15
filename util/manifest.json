@@ -166,7 +166,7 @@
                         }
                     ]
                 },
-                 {
+                {
                     "title": "Messages",
                     "type": "category",
                     "src": "messages",
@@ -177,8 +177,20 @@
                             "title": "Limitations"
                         }
                     ]
+                },
+                {
+                    "title": "FAQ",
+                    "type": "category",
+                    "src": "faq",
+                    "entities": [
+                        {
+                            "type": "page",
+                            "src": "README",
+                            "title": "Full list"
+                        }
+                    ]
                 }
-                ]
+            ]
         }
     ]
 }
