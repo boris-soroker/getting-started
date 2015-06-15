@@ -42,7 +42,7 @@ Finally, your counterpart creates in Sameroom a Tube between your Portal for the
 ---
 ### <a href="#supported-platform" name="supported-platform">**What is a supported platform?**</a>
 
-At this moment, Sameroom can connect rooms from the following so-called _supported platforms_:
+At this moment, Sameroom can [connect](/getting-started/en/faq/list#connected-rooms) rooms from the following so-called _supported platforms_:
 
  - [Campfire](https://launchpad.37signals.com/campfire/signin)
  - [Fleep](https://fleep.io)
@@ -80,7 +80,7 @@ We recommend to use [bot accounts](/getting-started/en/faq/list#bot-account) to 
 ---
 ### <a href="#bot-account" name="bot-account">**What is a bot account?**</a>
 
-We recommend to use so-called _bot accounts_ (specially created accounts) to create Portals and/or Tubes for chat rooms from the following chat platforms:
+We recommend to use so-called _bot accounts_ (specially created accounts) to create Portals and/or Tubes for chat rooms from the following subset of [supported platforms](/getting-started/en/faq/list#supported-platform):
  
  - Campfire
  - Gitter
