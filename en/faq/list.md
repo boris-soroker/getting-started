@@ -1,7 +1,7 @@
  - [**What does it mean when we say two chat rooms are connected?**](/getting-started/en/faq/list#connected-rooms)
  - [**What is Sameroom used for?**](/getting-started/en/faq/list#sameroom-purpose)
- - [**What is a Tube?**](/getting-started/en/faq/list#tube-definition)
  - [**What is a Portal?**](/getting-started/en/faq/list#portal-definition)
+ - [**What is a Tube?**](/getting-started/en/faq/list#tube-definition)
  
 ---
 ### <a href="#connected-rooms" name="connected-rooms">**What does it mean when we say two chat rooms are connected?**</a>
