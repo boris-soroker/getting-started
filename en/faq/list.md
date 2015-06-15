@@ -64,7 +64,7 @@ A Sameroom user who has access to a chat room **A** from any supported chat plat
 
 The created Portal is just a URL which can be sent (for example, by email) to a counterpart and then be used by that counterpart to create a Tube [[see how]](/getting-started/en/faq/list#tube-creation-from-portal).
 
-We recommend to use [bot accounts](/getting-started/en/faq/list#bot-account) to create Portals.
+For some platforms, we recommend to use [bot accounts](/getting-started/en/faq/list#bot-account) to create Portals.
 
 ---
 ### <a href="#tube-definition" name="tube-definition">**What is a Tube?**</a>
@@ -75,7 +75,7 @@ If that user has access to both chat rooms, the Tube can be created directly [[h
 
 If that user has access to only one of the chat rooms, the Tube can be created by using a Portal [[how-to]](/getting-started/en/faq/list#tube-creation-from_portal).
 
-We recommend to use [bot accounts](/getting-started/en/faq/list#bot-account) to create Tubes.
+For some platforms, we recommend to use [bot accounts](/getting-started/en/faq/list#bot-account) to create Tubes.
 
 ---
 ### <a href="#bot-account" name="bot-account">**What is a bot account?**</a>
