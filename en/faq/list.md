@@ -19,7 +19,7 @@ So, to connect rooms **A** and **B**, you can just create in Sameroom a Tube bet
 
 ### ![step-2.png](https://in.kato.im/99977b264e016814f4af35ac12a7fe42f1138758cd4b9285fa8c34e628a264fd/step-2.png) &ensp; **You create a Portal used by your counterpart to create a Tube**
  
-In that scenario, you have access only to one of the rooms you would like to connect (**A**), and you know somebody who has access to the second room you would like to connect (**B**).
+In that scenario, you have access only to one of the rooms you would like to connect (say, room **A**), and you know somebody who has access to the second room you would like to connect (room **B**).
 
 First, you create in Sameroom a Portal for the room **A** [[see how]](/getting-started/en/faq/list#how-to-use-a-portal).
 
