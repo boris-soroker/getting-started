@@ -5,7 +5,7 @@
 
 ### <a href="#what-is-sameroom-used-for" name="what-is-sameroom-used-for">**What is Sameroom used for?**</a>
  
-If you want to connect rooms from different chat platforms (for example, Slack and HipChat), Sameroom can help.
+If you want to connect rooms from different chat platforms (for example, Slack and HipChat), [Sameroom](https://sameroom.io) can help.
 
 There are two basic scenarios:
 
