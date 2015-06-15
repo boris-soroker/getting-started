@@ -2,7 +2,7 @@
  - [**What is Sameroom used for?**](/getting-started/en/faq/list#sameroom-purpose)
  
 ---
-### <a href="#connected-rooms" name="connected-rooms">****What does it mean when we say rooms A and B are connected?**</a>
+### <a href="#connected-rooms" name="connected-rooms">**What does it mean when we say rooms A and B are connected?**</a>
  
 Lat's say we have a couple of rooms, **A** and **B**, from some chat platforms. For example, room **A** can be from a Slack team (in that case, Slack calls it the _channel_ **A**), and room **B** can be from a HipChat team.
 
