@@ -129,7 +129,11 @@ Homer sees his new Tube on the _Manage_ page: {picture}
 
 #### ![step-7.png](https://in.kato.im/a1fb64af4d3bd98f7deae4722bcb4d7b75de7851657014ee568db97dda7e7013/step-7.png) &ensp; **See how your new Tube is working**
 
-Homer posts a message in his _Slack_ room _#Secret-channel_: {picture}
+After the new Tube is created (and we recomment to wait about 30 seconds), Homer posts a message in his _Slack_ room _#Secret-channel_: {picture}
 
-Bart responds in his Skype room _Caramba_: {picture} 
+Bart sees that message in his Skype room _Caramba_: {picture} 
+
+Bart responds in his Skype room _Caramba_: {picture}
+
+Homer sees that message in his Slack room _#Secret-channel_: {picture}  
 
