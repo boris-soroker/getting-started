@@ -13,6 +13,7 @@
  - [**What is a _bot account_?**](/getting-started/en/faq/list#bot-account)
  - [**Do you have a step-by-step example of a Tube creation?**](/getting-started/en/faq/list#tube-creation)
  - [**How about Sameroom security?**](/getting-started/en/faq/list#security)
+ - [**What to do if my Tube does not work?**](/getting-started/en/faq/list#troubleshooting)
  
 ---
 ### <a href="#connected-rooms" name="connected-rooms">**What does it mean when we say _Two chat rooms are connected_?**</a>
@@ -186,3 +187,34 @@ Sameroom does not store your credit card data - [Stripe](https://stripe.com) doe
 Sameroom does not store your passwords or session information for any of [supported platforms](/getting-started/en/faq/list#supported-platform) - your browser does, if any (in cookies).
 
 Sameroom does store maps of your Sameroom-connected networks, your Roomcoins, and some elements of your credentials (like email addresses and/or nicknames) for [supported chat platforms](/getting-started/en/faq/list#supported-platform) to be able to identify you. 
+
+---
+### <a href="#troubleshooting" name="troubleshooting">**What to do if my Tube does not work?**</a>
+
+#### ![step-1.png](https://in.kato.im/b8be284b81c9467fed3170d274c28de6789dd2fae1957895cd34bc20a2676d25/step-1.png) &ensp; **Check your Tube on the Manage page**
+ 
+Sometimes, you can see on the [Manage](https://sameroom.io/manage) page **Failed** Status for your non-working Tube:
+
+![clip.png](https://in.kato.im/1ba6df8a78bbd8e19f50262667d948a3a738df2ab9cac0c751ca0fe293e493b/clip.png)
+
+{describe actions}
+
+#### ![step-2.png](https://in.kato.im/99977b264e016814f4af35ac12a7fe42f1138758cd4b9285fa8c34e628a264fd/step-2.png) &ensp; **Post the `-sameroom map` message in your connected room**
+
+Normally, your Tube should look on the Manage page like this: 
+
+{picture}
+
+If you do not see something strange on the Manage page, post this message in your room which is connected by your non-working Tube:
+
+`-sameroom map`
+
+If your Tube is Active, you will see this kind of response in your room:
+
+{picture}
+
+#### ![step-3.png](https://in.kato.im/763f5cfdca4b46f6700a5fb457aa9bb52c22b54ae79653324c24a5c75c78d2/step-3.png) &ensp; **Ask us!**
+
+If everything looks normal and your Tube still does not work, ask us for help.
+
+{explain how}
