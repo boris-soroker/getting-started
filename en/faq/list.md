@@ -97,7 +97,7 @@ Note that we have [Roomcoins](/getting-started/en/faq/list#roomcoin-definition) 
 ---
 ### <a href="#unlimited-tube" name="unlimited-tube">**What does _Unlimited Tube_ mean?**</a>
 
-It would be better to call it a _Rate-unlimited Tube_ or something like that. It simply means that this Tube does not have the trial-imposed restriction of 30 messages per a calendar hour.
+It would be better to call it a _Rate-unlimited Tube_ or something like that. It simply means that this Tube does not have the trial-imposed [restriction](/getting-started/en/faq/list#limited-tube) (maximum 30 messages per a calendar hour per a Rate-Limited Tube).
 
 Note that if you try to send a lot of messages in a rapid sequence (more than a couple of messages per a second, for example) some of your messages will be not relayed by Sameroom to the connected rooms. _Rate-unlimited_ does not mean that Sameroom knows how to defeat laws of physics.
 
