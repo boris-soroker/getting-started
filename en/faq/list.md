@@ -7,6 +7,7 @@
  - [**What is a Portal?**](/getting-started/en/faq/list#portal-definition)
  - [**What is a Tube?**](/getting-started/en/faq/list#tube-definition)
  - [**How much?**](/getting-started/en/faq/list#how-much)
+ - [**What does _Unlimited Tube_ mean?**](/getting-started/en/faq/list#unlimited-tube)
  - [**What is a bot account?**](/getting-started/en/faq/list#bot-account)
  - [**Do you have a step-by-step example of a Tube creation?**](/getting-started/en/faq/list#tube-creation)
  
@@ -86,6 +87,13 @@ For some platforms, we recommend to use [bot accounts](/getting-started/en/faq/l
 ### <a href="#how-much" name="how-much">**How much?**</a>
 
 Here is our [pricing page](https://sameroom.io/pricing).
+
+---
+### <a href="#unlimited-tube" name="unlimited-tube">**What does _Unlimited Tube_ mean?**</a>
+
+It would be better to call it a _Rate-unlimited Tube_ or something like that. It simply means that this Tube does not have the trial-imposed restriction of 30 messages per calendar hour.
+
+Note that if you try to send a lot of messages in a rapid sequence (more than a couple of messages per a second, for example) some of your messages will be not relayed by Sameroom to the connected rooms. _Rate-unlimited_ does not mean that Sameroom knows how to defeat laws of physics.
 
 ---
 ### <a href="#bot-account" name="bot-account">**What is a bot account?**</a>
