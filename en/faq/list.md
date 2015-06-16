@@ -105,7 +105,7 @@ In our scenario, Homer has access to both rooms he would like to connect. For _S
  
 Homer visits htpps://sameroom.io in his favorite browser and joins it using his bot Skype account first, and then using his Slack acoount: {picture}. 
 
-Here is [[how]](/getting-started/en/faq/list#join-sameroom).
+[[See how]](/getting-started/en/faq/list#join-sameroom) to do that.
 
 #### ![step-3.png](https://in.kato.im/763f5cfdca4b46f6700a5fb457aa9bb52c22b54ae79653324c24a5c75c78d2/step-3.png) &ensp; **Click on the _Open a Tube_ menu option**
 
