@@ -1,3 +1,5 @@
+---
+
  - [**What does it mean when we say two chat rooms are connected?**](/getting-started/en/faq/list#connected-rooms)
  - [**What is Sameroom used for?**](/getting-started/en/faq/list#sameroom-purpose)
  - [**What is a supported platform?**](/getting-started/en/faq/list#supported-platform)
