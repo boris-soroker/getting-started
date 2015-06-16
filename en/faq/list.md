@@ -1,6 +1,6 @@
 ---
 
- - [**What does it mean when we say two chat rooms are connected?**](/getting-started/en/faq/list#connected-rooms)
+ - [**What does it mean when we say "two chat rooms are connected"?**](/getting-started/en/faq/list#connected-rooms)
  - [**What is Sameroom used for?**](/getting-started/en/faq/list#sameroom-purpose)
  - [**What is a supported platform?**](/getting-started/en/faq/list#supported-platform)
  - [**What is a Portal?**](/getting-started/en/faq/list#portal-definition)
@@ -8,13 +8,13 @@
  - [**What is a bot account?**](/getting-started/en/faq/list#bot-account)
  
 ---
-### <a href="#connected-rooms" name="connected-rooms">**What does it mean when we say two chat rooms are connected?**</a>
+### <a href="#connected-rooms" name="connected-rooms">**What does it mean when we say "two chat rooms are connected"?**</a>
  
-Lat's say we have a couple of rooms, **A** and **B**, from some chat platforms. For example, room **A** can be from a _Slack_ team (in that case, _Slack_ calls it the _channel_ **A**), and room **B** can be from a _HipChat_ team.
+Lat's say we have a couple of rooms, **A** and **B**, from some chat platforms. For example, room **A** can be from a _Slack_ team (_Slack_ itself calls it the _channel_ **A**, but we still call it "room"), and room **B** can be from a _HipChat_ team.
 
-Often, it is very useful to be able to see in room **A** all messages posted in room **B**, and vice virsa, to see in room **B** all messages posted in room **A**.
+Often, it is very useful to be able to see in the room **A** all messages posted in the room **B**, and vice virsa, to see in the room **B** all messages posted in the room **A**.
 
-Our product, [Sameroom](https://sameroom.io), does exactly that, relaying messages between rooms, and we will say that **A** and **B** are _connected_ by Sameroom. 
+Our product, [Sameroom](https://sameroom.io), does exactly that, relaying messages between rooms, and we say that rooms **A** and **B** are _connected_ (by Sameroom). 
 
 ---
 ### <a href="#sameroom-purpose" name="sameroom-purpose">**What is Sameroom used for?**</a>
