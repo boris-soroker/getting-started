@@ -8,6 +8,7 @@
  - [**What is a _Tube_?**](/getting-started/en/faq/list#tube-definition)
  - [**How much?**](/getting-started/en/faq/list#how-much)
  - [**What does _Unlimited Tube_ mean?**](/getting-started/en/faq/list#unlimited-tube)
+ - [**What is a _Rate-limited Tube_?**](/getting-started/en/faq/list#limited-tube)
  - [**What is a _Roomcoin_?**](/getting-started/en/faq/list#roomcoin-definition)
  - [**What is a _bot account_?**](/getting-started/en/faq/list#bot-account)
  - [**Do you have a step-by-step example of a Tube creation?**](/getting-started/en/faq/list#tube-creation)
@@ -89,6 +90,8 @@ For some platforms, we recommend to use [bot accounts](/getting-started/en/faq/l
 
 Here is our [pricing page](https://sameroom.io/pricing).
 
+Any Sameroom user can have a lot (no enforced maximum, actually) [Rate-limited Tubes](/getting-started/en/faq/list#limited-tube).
+
 Note that we have [Roomcoins](/getting-started/en/faq/list#roomcoin-definition) which are financially helpful.
 
 ---
@@ -97,6 +100,13 @@ Note that we have [Roomcoins](/getting-started/en/faq/list#roomcoin-definition) 
 It would be better to call it a _Rate-unlimited Tube_ or something like that. It simply means that this Tube does not have the trial-imposed restriction of 30 messages per a calendar hour.
 
 Note that if you try to send a lot of messages in a rapid sequence (more than a couple of messages per a second, for example) some of your messages will be not relayed by Sameroom to the connected rooms. _Rate-unlimited_ does not mean that Sameroom knows how to defeat laws of physics.
+
+---
+### <a href="#limited-tube" name="limited-tube">**What is a _Rate-limited Tube_?**</a>
+
+Sameroom has _Rate-limited Tubes_ to allow users to try our service without charging their credit cards. The trial limit allows to relay maximum 30 messages per a calendar hour. After reaching that limit in rooms, connected by a Rate-limited Tube, a warning message appears in those rooms: {picture}    
+
+Note that for some users the trial limit is perfectly acceplable, so those users do not need to upgrade Sameroom service to a paid plan. 
 
 ---
 ### <a href="#roomcoin-definition" name="roomcoin-definition">**What is a _Roomcoin_?**</a>
