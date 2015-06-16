@@ -197,7 +197,7 @@ Here we are going to describe a "normal" process of self-troubleshooting. Even i
  
 Sometimes, you can see on the [Manage](https://sameroom.io/manage) page **Failed** Status for your non-working Tube:
 
-![clip.png](https://in.kato.im/1ba6df8a78bbd8e19f50262667d948a3a738df2ab9cac0c751ca0fe293e493b/clip.png)
+![clip.png](https://in.kato.im/4d83b7163e9189a39da18b22d2647e96ea559a022867923ac6baf0aa4b09a836/clip.png)
 
 {describe actions}
 
