@@ -75,9 +75,9 @@ For some platforms, we recommend to use [bot accounts](/getting-started/en/faq/l
 
 A Sameroom user creates a Tube to [connect](/getting-started/en/faq/list#connected-rooms) two chat rooms. 
 
-If that user has access to both chat rooms, the Tube can be created directly [[how-to]](/getting-started/en/faq/list#tube-creation).
+If that user has access to both chat rooms, the Tube can be created directly [[see how]](/getting-started/en/faq/list#tube-creation).
 
-If that user has access to only one of the chat rooms, the Tube can be created by using a Portal [[how-to]](/getting-started/en/faq/list#tube-creation-from_portal).
+If that user has access to only one of the chat rooms, the Tube can be created by using a Portal [[see how]](/getting-started/en/faq/list#tube-creation-from_portal).
 
 For some platforms, we recommend to use [bot accounts](/getting-started/en/faq/list#bot-account) to create Tubes.
 
