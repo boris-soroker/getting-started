@@ -191,6 +191,8 @@ Sameroom does store maps of your Sameroom-connected networks, your Roomcoins, an
 ---
 ### <a href="#troubleshooting" name="troubleshooting">**What to do if my Tube does not work?**</a>
 
+Here we are going to describe a "normal" process of self-troubleshooting. Even if you cannot fix a problem by yourself, it would be very useful if you can do some screenshots on each step. It will help us to recognize and fix a problem with your Tube. 
+
 #### ![step-1.png](https://in.kato.im/b8be284b81c9467fed3170d274c28de6789dd2fae1957895cd34bc20a2676d25/step-1.png) &ensp; **Check your Tube on the Manage page**
  
 Sometimes, you can see on the [Manage](https://sameroom.io/manage) page **Failed** Status for your non-working Tube:
