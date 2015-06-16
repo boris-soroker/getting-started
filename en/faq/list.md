@@ -6,6 +6,7 @@
  - [**What is a Portal?**](/getting-started/en/faq/list#portal-definition)
  - [**What is a Tube?**](/getting-started/en/faq/list#tube-definition)
  - [**What is a bot account?**](/getting-started/en/faq/list#bot-account)
+ - [**Do you have a step-by-step example of a Tube creation?**](/getting-started/en/faq/list#tube-creation)
  
 ---
 ### <a href="#connected-rooms" name="connected-rooms">**What does it mean when we say "two chat rooms are connected"?**</a>
@@ -19,7 +20,7 @@ Our product, [Sameroom](https://sameroom.io), does exactly that, relaying messag
 ---
 ### <a href="#sameroom-purpose" name="sameroom-purpose">**What is Sameroom used for?**</a>
  
-If you want to [connect](/getting-started/en/faq/list#connected-rooms) rooms from different chat platforms (for example, from _Fleep_ and _Campfire_ teams), [Sameroom](https://sameroom.io) can help. 
+If you want to [connect](/getting-started/en/faq/list#connected-rooms) different rooms (for example, one of them is from from a _Fleep_ team and another one is from a _Campfire_ team), [Sameroom](https://sameroom.io) can help. 
 
 We will use names **A** and **B** for rooms you would like to connect.
 
@@ -27,9 +28,9 @@ There are two basic scenarios:
 
 #### ![step-1.png](https://in.kato.im/b8be284b81c9467fed3170d274c28de6789dd2fae1957895cd34bc20a2676d25/step-1.png) &ensp; **You create a Tube**
  
-In that scenario, you have access to both rooms you would like to connect, **A** and **B**. In our example, it means you have access to a room (_Fleep_ itself calls it "conversation", but we still call it "room") from a _Fleep_ team and a room from a _Campfire_ team.  
+In that scenario, you have access to both rooms, **A** and **B**, you would like to connect. In our example, it means you have access to a room (_Fleep_ itself calls it "conversation", but we still call it "room") from a _Fleep_ team and a room from a _Campfire_ team.  
 
-So, to connect rooms **A** and **B**, you just create in Sameroom a Tube between **A** and **B** [[see how]](/getting-started/en/faq/list#how-to-create-a-tube). After that, **A** and **B** are connected when the Tube is active.
+To connect rooms **A** and **B**, you just create in Sameroom a Tube between **A** and **B** [[see how]](/getting-started/en/faq/list#tube-creation). After that, **A** and **B** are connected when the Tube is active.
 
 #### ![step-2.png](https://in.kato.im/99977b264e016814f4af35ac12a7fe42f1138758cd4b9285fa8c34e628a264fd/step-2.png) &ensp; **You create a Portal and your counterpart uses it to create a Tube**
  
@@ -89,3 +90,8 @@ We recommend to use so-called _bot accounts_ (specially created accounts) to cre
  - HipChat
  - IRC
  - Skype
+
+---
+### <a href="#tube-creation" name="tube-creation">**Do you have a step-by-step example of a Tube creation?**</a>
+
+Yes, we do. In our example, the Simpson family is using _Skype_ as their primary chat platform, and the Springfield Nuclear Power Plant (where Homer Simpson works as a Safety Inspector) is using _Slack_. Mr. Burnes does not allow to use Skype by his employees, so Homer needs to connect a Skype conversation named _Baseball_ (where Bart posts latest baseball scores) with his secret Slack channel (named _#Secret-channel_).   
