@@ -12,6 +12,7 @@
  - [**What is a _Roomcoin_?**](/getting-started/en/faq/list#roomcoin-definition)
  - [**What is a _bot account_?**](/getting-started/en/faq/list#bot-account)
  - [**Do you have a step-by-step example of a Tube creation?**](/getting-started/en/faq/list#tube-creation)
+ - [**How about Sameroom security?**](/getting-started/en/faq/list#security)
  
 ---
 ### <a href="#connected-rooms" name="connected-rooms">**What does it mean when we say _Two chat rooms are connected_?**</a>
@@ -172,3 +173,16 @@ Bart sees that message in his Skype room _Caramba_: {picture}
 Bart responds in his Skype room _Caramba_: {picture}
 
 Homer sees that message in his Slack room _#Secret-channel_: {picture}  
+
+---
+### <a href="#security" name="security">**How about Sameroom security?**</a>
+
+Sameroom stores maximum 20 last messages over 24-hour period for each Sameroom-connected room (to be able to provide some context after a new room is connected to this one). No other messages are being stored in Sameroom.
+
+Security of the relayed messages from or to a [supported chat platform](/getting-started/en/faq/list#supported-platform) is not better or worse that security of that chat platform.
+
+Sameroom does not store your credit card data - [Stripe](https://stripe.com) does.
+
+Sameroom does not store your passwords for any of [supported platforms](/getting-started/en/faq/list#supported-platform) - your browser does (as cookies).
+
+Sameroom does store maps of your Sameroom-connected networks, your Roomcoins, and some elements of your credentials (like email addresses and/or nicknames) for [supported chat platforms](/getting-started/en/faq/list#supported-platform) to be able to identify you. 
