@@ -1,14 +1,15 @@
 ---
 
- - [**What does it mean when we say "two chat rooms are connected"?**](/getting-started/en/faq/list#connected-rooms)
+ - [**What does it mean when we say _Two chat rooms are connected_?**](/getting-started/en/faq/list#connected-rooms)
  - [**What is Sameroom used for?**](/getting-started/en/faq/list#sameroom-purpose)
- - [**What is a supported platform?**](/getting-started/en/faq/list#supported-platform)
+ - [**What is a _supported platform_?**](/getting-started/en/faq/list#supported-platform)
  - [**Do you have a list of supported platforms?**](/getting-started/en/faq/list#supported-platform)
- - [**What is a Portal?**](/getting-started/en/faq/list#portal-definition)
- - [**What is a Tube?**](/getting-started/en/faq/list#tube-definition)
+ - [**What is a _Portal_?**](/getting-started/en/faq/list#portal-definition)
+ - [**What is a _Tube_?**](/getting-started/en/faq/list#tube-definition)
  - [**How much?**](/getting-started/en/faq/list#how-much)
  - [**What does _Unlimited Tube_ mean?**](/getting-started/en/faq/list#unlimited-tube)
- - [**What is a bot account?**](/getting-started/en/faq/list#bot-account)
+ - [**What is a _Roomcoin_?**](/getting-started/en/faq/list#roomcoin-definition)
+ - [**What is a _bot account_?**](/getting-started/en/faq/list#bot-account)
  - [**Do you have a step-by-step example of a Tube creation?**](/getting-started/en/faq/list#tube-creation)
  
 ---
@@ -88,12 +89,23 @@ For some platforms, we recommend to use [bot accounts](/getting-started/en/faq/l
 
 Here is our [pricing page](https://sameroom.io/pricing).
 
+Note that we have [Roomcoins](/getting-started/en/faq/list#roomcoin-definition) which are financially helpful.
+
 ---
 ### <a href="#unlimited-tube" name="unlimited-tube">**What does _Unlimited Tube_ mean?**</a>
 
-It would be better to call it a _Rate-unlimited Tube_ or something like that. It simply means that this Tube does not have the trial-imposed restriction of 30 messages per calendar hour.
+It would be better to call it a _Rate-unlimited Tube_ or something like that. It simply means that this Tube does not have the trial-imposed restriction of 30 messages per a calendar hour.
 
 Note that if you try to send a lot of messages in a rapid sequence (more than a couple of messages per a second, for example) some of your messages will be not relayed by Sameroom to the connected rooms. _Rate-unlimited_ does not mean that Sameroom knows how to defeat laws of physics.
+
+---
+### <a href="#roomcoin-definition" name="roomcoin-definition">**What is a _Roomcoin_?**</a>
+
+_Roomcoin_ is a Sameroom currency (well, not really). As an example, a Roomcoin with a nominal value **2** allows its owner to keep **2** Unlimited Tubes without paying for them. Note that Roomcoins are transferable (so if you don't need it anymore, you can hand it over to your friend).
+
+We hand out Roomcoins during our promotion events.
+
+Here is our [Roomcoin page](https://sameroom.io/roomcoin). 
 
 ---
 ### <a href="#bot-account" name="bot-account">**What is a bot account?**</a>
