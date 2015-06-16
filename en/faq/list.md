@@ -1,7 +1,7 @@
 ---
 
  - [**What does it mean when we say _Two chat rooms are connected_?**](/getting-started/en/faq/list#connected-rooms)
- - [**What is Sameroom used for?**](/getting-started/en/faq/list#sameroom-purpose)
+ - [**What is _Sameroom_ used for?**](/getting-started/en/faq/list#sameroom-purpose)
  - [**What is a _supported platform_?**](/getting-started/en/faq/list#supported-platform)
  - [**Do you have a list of supported platforms?**](/getting-started/en/faq/list#supported-platform)
  - [**What is a _Portal_?**](/getting-started/en/faq/list#portal-definition)
@@ -13,7 +13,7 @@
  - [**Do you have a step-by-step example of a Tube creation?**](/getting-started/en/faq/list#tube-creation)
  
 ---
-### <a href="#connected-rooms" name="connected-rooms">**What does it mean when we say "two chat rooms are connected"?**</a>
+### <a href="#connected-rooms" name="connected-rooms">**What does it mean when we say _Two chat rooms are connected_?**</a>
  
 Lat's say we have a couple of rooms, **A** and **B**, from some chat platforms. For example, room **A** can be from a _Slack_ team (_Slack_ itself calls it "channel", but we still call it "room"), and room **B** can be from a _HipChat_ team.
 
@@ -22,7 +22,7 @@ Often, it is very useful to be able to see in the room **A** all messages posted
 Our product, [Sameroom](https://sameroom.io), does exactly that, relaying messages between rooms, and we say that rooms **A** and **B** are _connected_ (by Sameroom). 
 
 ---
-### <a href="#sameroom-purpose" name="sameroom-purpose">**What is Sameroom used for?**</a>
+### <a href="#sameroom-purpose" name="sameroom-purpose">**What is _Sameroom_ used for?**</a>
  
 If you want to [connect](/getting-started/en/faq/list#connected-rooms) different rooms (for example, one of them is from from a _Fleep_ team and another one is from a _Campfire_ team), [Sameroom](https://sameroom.io) can help. 
 
@@ -47,7 +47,7 @@ Then, you send that Portal (which is just a URL) to your counterpart.
 Finally, your counterpart creates in Sameroom a Tube between your Portal for the room **A** and the room **B** [[see how]](/getting-started/en/faq/list#how-to-create-a-tube). After that, **A** and **B** are connected when the Tube is active.
 
 ---
-### <a href="#supported-platform" name="supported-platform">**What is a supported platform?**</a>
+### <a href="#supported-platform" name="supported-platform">**What is a _supported platform_?**</a>
 
 At this moment, Sameroom can [connect](/getting-started/en/faq/list#connected-rooms) rooms from the following so-called _supported platforms_:
 
@@ -65,7 +65,7 @@ At this moment, Sameroom can [connect](/getting-started/en/faq/list#connected-ro
 That list of supported platforms is going to grow over time.
 
 ---
-### <a href="#portal-definition" name="portal-definition">**What is a Portal?**</a>
+### <a href="#portal-definition" name="portal-definition">**What is a _Portal_?**</a>
 
 A Sameroom user who has access to a chat room **A** from any supported chat platform can create in Sameroom a _Portal_ for that room **A** [[see how]](/getting-started/en/faq/list#portal-creation).
 
@@ -74,7 +74,7 @@ The created Portal is just a URL which can be sent (for example, by email) to a 
 For some platforms, we recommend to use [bot accounts](/getting-started/en/faq/list#bot-account) to create Portals.
 
 ---
-### <a href="#tube-definition" name="tube-definition">**What is a Tube?**</a>
+### <a href="#tube-definition" name="tube-definition">**What is a _Tube_?**</a>
 
 A Sameroom user creates a Tube to [connect](/getting-started/en/faq/list#connected-rooms) two chat rooms. 
 
@@ -101,14 +101,14 @@ Note that if you try to send a lot of messages in a rapid sequence (more than a 
 ---
 ### <a href="#roomcoin-definition" name="roomcoin-definition">**What is a _Roomcoin_?**</a>
 
-_Roomcoin_ is a Sameroom currency (well, not really). As an example, a Roomcoin with a nominal value **2** allows its owner to keep **2** Unlimited Tubes without paying for them. Note that Roomcoins are transferable (so if you don't need it anymore, you can hand it over to your friend).
+_Roomcoin_ is a Sameroom currency (well, not really). As an example, a Roomcoin with a nominal value **2** allows its owner to keep **2** Unlimited Tubes without paying for them by a credit card. Note that Roomcoins are transferable (so if you don't need a Roomcoin anymore, you can hand it over to your friend).
 
-We hand out Roomcoins during our promotion events.
+We hand out Roomcoins during our promotional events.
 
 Here is our [Roomcoin page](https://sameroom.io/roomcoin). 
 
 ---
-### <a href="#bot-account" name="bot-account">**What is a bot account?**</a>
+### <a href="#bot-account" name="bot-account">**What is a _bot account_?**</a>
 
 We recommend to use so-called _bot accounts_ (specially created accounts) to create Portals and/or Tubes for chat rooms from the following subset of [supported platforms](/getting-started/en/faq/list#supported-platform):
  
@@ -162,4 +162,3 @@ Bart sees that message in his Skype room _Caramba_: {picture}
 Bart responds in his Skype room _Caramba_: {picture}
 
 Homer sees that message in his Slack room _#Secret-channel_: {picture}  
-
