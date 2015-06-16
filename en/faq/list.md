@@ -3,6 +3,7 @@
  - [**What does it mean when we say "two chat rooms are connected"?**](/getting-started/en/faq/list#connected-rooms)
  - [**What is Sameroom used for?**](/getting-started/en/faq/list#sameroom-purpose)
  - [**What is a supported platform?**](/getting-started/en/faq/list#supported-platform)
+ - [**Do you have a list of supported platforms?**](/getting-started/en/faq/list#supported-platform)
  - [**What is a Portal?**](/getting-started/en/faq/list#portal-definition)
  - [**What is a Tube?**](/getting-started/en/faq/list#tube-definition)
  - [**What is a bot account?**](/getting-started/en/faq/list#bot-account)
