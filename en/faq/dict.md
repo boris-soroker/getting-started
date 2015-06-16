@@ -1,4 +1,4 @@
-### <a href="#dict-en" name="dict-en">Dictionary</a>
+---
 
  - Bot account → [[definition]](/getting-started/en/faq/list#bot-account)
  - Chat platform → [[see]](/getting-started/en/faq/list#supported-platform) Supported platform
