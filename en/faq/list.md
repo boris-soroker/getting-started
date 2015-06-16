@@ -183,6 +183,6 @@ Security of the relayed messages from or to a [supported chat platform](/getting
 
 Sameroom does not store your credit card data - [Stripe](https://stripe.com) does.
 
-Sameroom does not store your passwords for any of [supported platforms](/getting-started/en/faq/list#supported-platform) - your browser does (as cookies).
+Sameroom does not store your passwords or session information for any of [supported platforms](/getting-started/en/faq/list#supported-platform) - your browser does, if any (in cookies).
 
 Sameroom does store maps of your Sameroom-connected networks, your Roomcoins, and some elements of your credentials (like email addresses and/or nicknames) for [supported chat platforms](/getting-started/en/faq/list#supported-platform) to be able to identify you. 
