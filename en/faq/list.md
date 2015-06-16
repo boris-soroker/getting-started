@@ -94,4 +94,39 @@ We recommend to use so-called _bot accounts_ (specially created accounts) to cre
 ---
 ### <a href="#tube-creation" name="tube-creation">**Do you have a step-by-step example of a Tube creation?**</a>
 
-Yes, we do. In our example, the Simpson family is using _Skype_ as their primary chat platform, and the Springfield Nuclear Power Plant (where Homer Simpson works as a Safety Inspector) is using _Slack_. Mr. Burnes does not allow to use Skype by his employees, so Homer needs to connect a Skype conversation named _Baseball_ (where Bart posts latest baseball scores) with his secret Slack channel (named _#Secret-channel_).   
+Yes, we do. In our example, the Simpson family is using _Skype_ as their primary chat platform, and the Springfield Nuclear Power Plant (where Homer Simpson works as a Safety Inspector) is using _Slack_. Mr. Burnes does not allow to use Skype by his employees, so Homer needs to connect a Skype conversation named _Baseball_ (where Bart posts latest baseball scores) with his secret Slack channel (named _#Secret-channel_).
+
+#### ![step-1.png](https://in.kato.im/b8be284b81c9467fed3170d274c28de6789dd2fae1957895cd34bc20a2676d25/step-1.png) &ensp; **Prepare your bot accounts**
+ 
+In our scenario, Homer has access to both rooms he would like to connect. For _Skype_, we recommend to use a [bot account](/getting-started/en/faq/list#bot-account), so Homer has added a new bot account to the Skype _Baseball_ conversation. 
+
+#### ![step-2.png](https://in.kato.im/99977b264e016814f4af35ac12a7fe42f1138758cd4b9285fa8c34e628a264fd/step-2.png) &ensp; **Open Sameroom and join it using chat platforms**
+ 
+Homer visits htpps://sameroom.io in his favorite browser and joins it using his bot Skype account first, and then using his Slack acoount.
+
+#### ![step-3.png](https://in.kato.im/763f5cfdca4b46f6700a5fb457aa9bb52c22b54ae79653324c24a5c75c78d2/step-3.png) &ensp; **Click on the _Open a Tube_ menu option**
+
+If Homer sees the _Select Side A_ page, he is already in aright place. If he does not see that page, he needs to click here: {picture}.
+
+#### ![step-4.png](https://in.kato.im/aaca13a3bf3bd02e7c564df12590fd48a6158e7f255b70f71ccb95b1eb813552/step-4.png) &ensp; **Search for your room name _A_ and select it**
+
+Homer enters the Skype room name _Baseball_ in the search box: {picture}. 
+
+Note that the room name is visible in the drop-down list. Homer clicks on it there.
+
+#### ![step-5.png](https://in.kato.im/d60566787495e1d710e7cafc8d5580c1fd2cd1aaf7c9e75bb4048a98b5e3dada/step-5.png) &ensp; **Search for your room name _B_ and select it**
+
+Homer enters the Slack room name _#Secret-channel_ in the search box: {picture}. 
+
+Note that the room name is visible in the drop-down list. Homer clicks on it there.
+
+#### ![step-6.png](https://in.kato.im/f093511f290ddcb9e024632b397679fa05a17d0b414fec44b5cbd2b55148d8/step-6.png) &ensp; **Look at your new Tube**
+
+Homer sees his new Tube on the _Manage_ page: {picture}
+
+#### ![step-7.png](https://in.kato.im/a1fb64af4d3bd98f7deae4722bcb4d7b75de7851657014ee568db97dda7e7013/step-7.png) &ensp; **See how your new Tube is working**
+
+Homer posts a message in his _Slack_ room _#Secret-channel_: {picture}
+
+Bart responds in his Skype room _Baseball_: {picture} 
+
