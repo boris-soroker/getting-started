@@ -177,7 +177,7 @@ Homer sees that message in his Slack room _#Secret-channel_: {picture}
 ---
 ### <a href="#security" name="security">**How about Sameroom security?**</a>
 
-Sameroom stores maximum 20 last messages over 24-hour period for each Sameroom-connected room (to be able to provide some context after a new room is connected to this one). No other messages are being stored in Sameroom.
+Sameroom stores maximum 20 last messages over 24-hour period for each Sameroom-connected room (to be able to provide some context after a new room is connected to the existing one). No other messages are being stored in Sameroom.
 
 Security of the relayed messages from or to a [supported chat platform](/getting-started/en/faq/list#supported-platform) is not better or worse that security of that chat platform.
 
