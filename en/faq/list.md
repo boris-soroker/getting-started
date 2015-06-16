@@ -6,6 +6,7 @@
  - [**Do you have a list of supported platforms?**](/getting-started/en/faq/list#supported-platform)
  - [**What is a Portal?**](/getting-started/en/faq/list#portal-definition)
  - [**What is a Tube?**](/getting-started/en/faq/list#tube-definition)
+ - [**How much?**](/getting-started/en/faq/list#how-much)
  - [**What is a bot account?**](/getting-started/en/faq/list#bot-account)
  - [**Do you have a step-by-step example of a Tube creation?**](/getting-started/en/faq/list#tube-creation)
  
@@ -80,6 +81,11 @@ If that user has access to both chat rooms, the Tube can be created directly [[s
 If that user has access to only one of the chat rooms, the Tube can be created by using a Portal [[see how]](/getting-started/en/faq/list#tube-creation-from_portal).
 
 For some platforms, we recommend to use [bot accounts](/getting-started/en/faq/list#bot-account) to create Tubes.
+
+---
+### <a href="#how-much" name="how-much">**How much?**</a>
+
+Here is our [pricing page](https://sameroom.io/pricing).
 
 ---
 ### <a href="#bot-account" name="bot-account">**What is a bot account?**</a>
