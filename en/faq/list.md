@@ -98,15 +98,17 @@ Yes, we do. In our example, the Simpson family is using _Skype_ as their primary
 
 #### ![step-1.png](https://in.kato.im/b8be284b81c9467fed3170d274c28de6789dd2fae1957895cd34bc20a2676d25/step-1.png) &ensp; **Prepare your bot accounts**
  
-In our scenario, Homer has access to both rooms he would like to connect. For _Skype_, we recommend to use a [bot account](/getting-started/en/faq/list#bot-account), so Homer has added a new bot account to the Skype _Baseball_ conversation. 
+In our scenario, Homer has access to both rooms he would like to connect. For _Skype_, we recommend to use a [bot account](/getting-started/en/faq/list#bot-account), so Homer has added a new bot account to the Skype _Baseball_ conversation: {picture}. 
 
-#### ![step-2.png](https://in.kato.im/99977b264e016814f4af35ac12a7fe42f1138758cd4b9285fa8c34e628a264fd/step-2.png) &ensp; **Open Sameroom and join it using chat platforms**
+#### ![step-2.png](https://in.kato.im/99977b264e016814f4af35ac12a7fe42f1138758cd4b9285fa8c34e628a264fd/step-2.png) &ensp; **Open Sameroom and join it using your chat platforms**
  
-Homer visits htpps://sameroom.io in his favorite browser and joins it using his bot Skype account first, and then using his Slack acoount.
+Homer visits htpps://sameroom.io in his favorite browser and joins it using his bot Skype account first, and then using his Slack acoount: {picture}. 
+
+Here is [[how]](/getting-started/en/faq/list#join-sameroom).
 
 #### ![step-3.png](https://in.kato.im/763f5cfdca4b46f6700a5fb457aa9bb52c22b54ae79653324c24a5c75c78d2/step-3.png) &ensp; **Click on the _Open a Tube_ menu option**
 
-If Homer sees the _Select Side A_ page, he is already in aright place. If he does not see that page, he needs to click here: {picture}.
+If Homer sees the _Select Side A_ page, he is already in the right place. If he does not see that page, he needs to click here: {picture}.
 
 #### ![step-4.png](https://in.kato.im/aaca13a3bf3bd02e7c564df12590fd48a6158e7f255b70f71ccb95b1eb813552/step-4.png) &ensp; **Search for your room name _A_ and select it**
 
