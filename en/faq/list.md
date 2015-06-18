@@ -141,7 +141,7 @@ In our scenario, Homer has access to both rooms he would like to connect. For _S
 
 #### ![step-2.png](https://in.kato.im/99977b264e016814f4af35ac12a7fe42f1138758cd4b9285fa8c34e628a264fd/step-2.png) &ensp; **Open Sameroom and join it using your chat platforms**
  
-Homer visits htpps://sameroom.io in his favorite browser and joins it using his bot Skype account first, and then using his Slack acoount: {picture}. 
+Homer visits https://sameroom.io in his favorite browser and joins it using his bot Skype account first, and then using his Slack acoount: {picture}. 
 
 [[See how]](/getting-started/en/faq/list#join-sameroom) to do that.
 
