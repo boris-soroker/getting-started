@@ -237,6 +237,6 @@ Unfortunately, Microsoft Live credentials do not work with Sameroom.
 
 We recommend this solution:
 
-(1) Create a separate Skype account (so-called ["bot account"](/getting-started/en/faq/list#bot-account)) which has access to all your Skype conversations.
-(2) Use that account to create Tubes or Portals in Sameroom.
-(3) Use your Microsoft Live account to post messages in Sameroom-connected Skype conversations.
+  1. Create a separate Skype account (so-called ["bot account"](/getting-started/en/faq/list#bot-account)) which has access to all your Skype conversations.
+  2. Use that account to create Tubes or Portals in Sameroom.
+  3. Use your Microsoft Live account to post messages in Sameroom-connected Skype conversations.
