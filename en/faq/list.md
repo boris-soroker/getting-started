@@ -15,6 +15,7 @@
  - [**Do you have a step-by-step example of a Tube creation?**](/getting-started/en/faq/list#tube-creation)
  - [**How about Sameroom security?**](/getting-started/en/faq/list#security)
  - [**What to do if my Tube does not work?**](/getting-started/en/faq/list#troubleshooting)
+ - [**Skype: Why I cannot join Sameroom using my Microsoft Live credentials?**](/getting-started/en/faq/list#skype-microsoft)
  
 ---
 ### <a href="#connected-rooms" name="connected-rooms">**What does it mean when we say _Two chat rooms are connected_?**</a>
@@ -228,3 +229,14 @@ If your Tube is Active, you will see this kind of response in your room:
 If everything looks normal and your Tube still does not work, ask us for help.
 
 {explain how}
+
+---
+### <a href="#skype-microsoft" name="skype-microsoft">**Skype: Why I cannot join Sameroom using my Microsoft Live credentials?**</a>
+
+Unfortunately, Microsoft Live credentials do not work with Sameroom.
+
+We recommend this solution:
+
+(1) Create a separate Skype account (so-called ["bot account"](/getting-started/en/faq/list#bot-account)) which has access to all your Skype conversations.
+(2) Use that account to create Tubes or Portals in Sameroom.
+(3) Use your Microsoft Live account to post messages in Sameroom-connected Skype conversations.
