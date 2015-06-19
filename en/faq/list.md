@@ -4,6 +4,7 @@
  - [**What is _Sameroom_ used for?**](/getting-started/en/faq/list#sameroom-purpose)
  - [**What is a _supported platform_?**](/getting-started/en/faq/list#supported-platform)
  - [**Do you have a list of supported platforms?**](/getting-started/en/faq/list#supported-platform)
+ - [**What does it mean _to join Sameroom_?**](/getting-started/en/faq/list#join-sameroom)
  - [**What is a _Portal_?**](/getting-started/en/faq/list#portal-definition)
  - [**What is a _Tube_?**](/getting-started/en/faq/list#tube-definition)
  - [**How much?**](/getting-started/en/faq/list#how-much)
@@ -66,6 +67,13 @@ At this moment, Sameroom can [connect](/getting-started/en/faq/list#connected-ro
  - [Slack](https://slack.com)
 
 That list of supported platforms is going to grow over time.
+
+---
+### <a href="#join-sameroom" name="join-sameroom">**What does it mean _to join Sameroom_?**</a>
+
+When you open [Sameroom](https://sameroom.io) for the first time, you see the _Sign in / Join_ option in the top right corner:
+
+![join-1.png](https://in.kato.im/c2d5f2fce49c1f44ef85625c27e92961bddb01e9c786efe133ac98749f8d6fb/join-1.png)
 
 ---
 ### <a href="#portal-definition" name="portal-definition">**What is a _Portal_?**</a>
